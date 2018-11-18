@@ -1,2 +1,6 @@
 this file is created for checking the index status bfore comminting into local repository and also for the demo of commiting changes into 
 local repository
+
+Editing this file because
+this file created for showing demo of adding multiple file together
+using command git add -A

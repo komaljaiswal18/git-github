@@ -1,0 +1,2 @@
+this file created for showing demo of adding multiple file together
+using command git add -A
