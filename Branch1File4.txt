@@ -1,0 +1,3 @@
+first file in branch 1
+Modified this file to show that after merging with master when u are modifying this file and again not merging into master then
+your master branch will not reflect modified changes into this file
